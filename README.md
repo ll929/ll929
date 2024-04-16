@@ -4,7 +4,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ll929&langs_count=10&theme=dracula&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="ll929 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ll929&count_private=true&langs_count=10&theme=dracula&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="ll929 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ll929&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=dracula" alt="ll929 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ll929&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&theme=dracula" alt="ll929 :: Profile Stats" /></p>
